@@ -1,1 +1,121 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('x a=["","\\f\\c\\z\\A\\b\\y","\\i\\y\\e\\o\\M\\j\\k\\c\\1c\\b","\\y\\b\\b\\p\\h\\P\\q\\q\\h\\i\\o\\d\\p\\b\\r\\A\\j\\j\\A\\f\\c\\r\\i\\j\\l\\q\\l\\e\\i\\o\\j\\h\\q\\h\\q\\1c\\1V\\K\\t\\i\\G\\1S\\1U\\M\\2W\\t\\1u\\1w\\t\\f\\O\\1U\\1v\\M\\1P\\L\\1r\\A\\y\\e\\1v\\1A\\e\\1u\\2X\\E\\1V\\c\\i\\A\\L\\1T\\M\\i\\S\\y\\y\\1u\\L\\2Y\\2Z\\M\\M\\E\\1T\\1v\\b\\d\\1S\\M\\2U\\q\\c\\O\\c\\i\\U\\y\\c\\O\\s","\\h\\i\\o\\d\\p\\b","\\i\\o\\c\\e\\b\\c\\1w\\f\\c\\l\\c\\z\\b","\\h\\o\\i","\\q\\q\\E\\E\\E\\r\\t\\j\\n\\b\\n\\G\\c\\r\\i\\j\\l\\q\\d\\K\\o\\e\\l\\c\\I\\e\\p\\d","\\A\\c\\b\\1w\\f\\c\\l\\c\\z\\b\\h\\1E\\t\\1Q\\e\\A\\W\\e\\l\\c","\\d\\z\\h\\c\\o\\b\\1E\\c\\K\\j\\o\\c","\\p\\e\\o\\c\\z\\b\\W\\j\\k\\c","\\p\\f\\e\\t\\c\\o","\\b\\d\\z\\t","\\A\\c\\b\\1A\\f\\e\\t\\f\\d\\h\\b\\2Q\\z\\k\\c\\O","\\k\\e\\b\\e","\\e\\f\\G\\n\\l\\C\\p\\f\\e\\t","\\o\\c\\l\\j\\D\\c\\M\\f\\e\\h\\h","\\r\\e\\f\\G\\n\\l","\\K\\d\\z\\k","\\r\\d\\b\\c\\l\\C\\f\\d\\h\\b\\C\\d\\b\\c\\l","\\e\\k\\k\\M\\f\\e\\h\\h","\\c\\L","\\l\\e\\b\\i\\y","\\D\\e\\f","\\2P","\\o\\c\\p\\f\\e\\i\\c","\\y\\d\\k\\c","\\r\\p\\o\\c\\h","\\y\\b\\l\\f","\\r\\e\\f\\f","\\p\\j\\h\\d\\b\\d\\j\\z","\\e\\G\\h\\j\\f\\n\\b\\c","\\i\\h\\h","\\r\\K\\j\\j\\b\\c\\o","\\h\\y\\j\\E","\\r\\p\\o\\j\\A\\o\\c\\h\\h","\\y\\b\\b\\p\\h\\P\\q\\q\\E\\E\\E\\r\\t\\j\\n\\b\\n\\G\\c\\r\\i\\j\\l\\q\\o\\c\\h\\n\\f\\b\\h\\U\\h\\c\\e\\o\\i\\y\\I\\L\\n\\c\\o\\t\\s","\\o\\c\\h\\n\\f\\b\\h","\\b\\c\\O\\b","\\r\\t\\b\\C\\f\\j\\i\\N\\n\\p\\C\\i\\j\\z\\b\\c\\z\\b\\B\\F\\B\\y\\1B\\r\\t\\b\\C\\f\\j\\i\\N\\n\\p\\C\\b\\d\\b\\f\\c\\B\\F\\B\\e","\\r\\D\\d\\k\\c\\j\\C\\b\\d\\l\\c","\\y\\b\\b\\p\\h\\P\\q\\q\\E\\E\\E\\r\\t\\j\\n\\b\\n\\G\\c\\r\\i\\j\\l","\\y\\o\\c\\K","\\e\\b\\b\\o","\\e\\r\\t\\b\\C\\n\\d\\O\\C\\h\\c\\h\\h\\d\\j\\z\\f\\d\\z\\N","\\p\\n\\h\\y","\\y\\b\\b\\p\\h\\P\\q\\q\\d\\r\\t\\b\\d\\l\\A\\r\\i\\j\\l\\q\\D\\d\\q","\\q\\k\\c\\K\\e\\n\\f\\b\\r\\1y\\p\\A","\\P","\\h\\p\\f\\d\\b","\\H\\k\\d\\D\\B\\i\\f\\e\\h\\h\\s\\m\\d\\b\\c\\l\\m\\F\\H\\k\\d\\D\\B\\i\\f\\e\\h\\h\\s\\m\\e\\f\\G\\n\\l\\C\\d\\b\\c\\l\\m\\B\\k\\e\\b\\e\\C\\d\\k\\s\\m","\\m\\B\\k\\e\\b\\e\\C\\L\\s\\m\\p\\f\\e\\t\\m\\F\\H\\d\\l\\A\\B\\h\\o\\i\\s\\m\\d\\l\\A\\q\\d\\i\\I\\p\\f\\e\\t\\I\\i\\d\\o\\i\\f\\c\\I\\j\\n\\b\\f\\d\\z\\c\\I\\E\\y\\d\\b\\c\\I\\Z\\1z\\p\\O\\r\\h\\D\\A\\m\\B\\i\\f\\e\\h\\h\\s\\m\\p\\f\\e\\t\\m\\F\\H\\d\\l\\A\\B\\h\\o\\i\\s\\m","\\m\\B\\i\\f\\e\\h\\h\\s\\m\\e\\f\\G\\n\\l\\m\\F\\H\\q\\k\\d\\D\\F\\H\\d\\l\\A\\B\\h\\o\\i\\s\\m\\d\\l\\A\\q\\d\\i\\I\\i\\f\\j\\n\\k\\I\\k\\j\\E\\z\\f\\j\\e\\k\\I\\E\\y\\d\\b\\c\\I\\Z\\1z\\p\\O\\r\\h\\D\\A\\m\\B\\i\\f\\e\\h\\h\\s\\m\\k\\j\\E\\z\\m\\B\\k\\e\\b\\e\\C\\L\\s\\m\\k\\j\\E\\z\\m\\B\\k\\e\\b\\e\\C\\b\\d\\b\\f\\c\\s\\m","\\m\\B\\k\\e\\b\\e\\C\\b\\d\\l\\c\\s\\m","\\m\\B\\k\\e\\b\\e\\C\\d\\k\\s\\m","\\m\\F\\H\\k\\d\\D\\B\\i\\f\\e\\h\\h\\s\\m\\b\\d\\b\\f\\c\\C\\e\\f\\G\\n\\l\\m\\B\\b\\d\\b\\f\\c\\s\\m","\\m\\F","\\H\\q\\k\\d\\D\\F\\H\\k\\d\\D\\B\\i\\f\\e\\h\\h\\s\\m\\D\\d\\c\\E\\m\\F\\H\\k\\d\\D\\B\\i\\f\\e\\h\\h\\s\\m\\b\\d\\l\\c\\C\\d\\b\\c\\l\\m\\F\\H\\d\\l\\A\\B\\h\\o\\i\\s\\m\\d\\l\\A\\q\\d\\i\\I\\e\\i\\i\\c\\h\\h\\I\\b\\d\\l\\c\\I\\E\\y\\d\\b\\c\\I\\Z\\1z\\p\\O\\r\\h\\D\\A\\m\\B\\i\\f\\e\\h\\h\\s\\m\\b\\d\\l\\c\\m\\F\\H\\k\\d\\D\\B\\i\\f\\e\\h\\h\\s\\m\\b\\d\\l\\c\\C\\b\\d\\l\\c\\m\\F","\\H\\q\\k\\d\\D\\F\\H\\q\\k\\d\\D\\F\\H\\q\\k\\d\\D\\F\\H\\q\\k\\d\\D\\F","\\e\\p\\p\\c\\z\\k","\\c\\e\\i\\y","\\r\\t\\b\\C\\f\\j\\i\\N\\n\\p\\C\\D\\d\\k\\c\\j\\B\\F\\B\\r\\t\\b\\C\\f\\j\\i\\N\\n\\p\\C\\k\\d\\h\\l\\d\\h\\h\\e\\G\\f\\c","\\L","\\p\\f\\e\\t","\\d\\z\\k\\c\\O","\\r\\e\\f\\G\\n\\l\\C\\d\\b\\c\\l","\\f\\j\\e\\k\\1A\\f\\e\\t\\f\\d\\h\\b","\\k\\d\\h\\p\\f\\e\\t","\\G\\f\\j\\i\\N","\\r\\p\\f\\e\\t\\C\\D\\d\\k\\c\\j\\1W\\B\\d\\K\\o\\e\\l\\c","\\b\\d\\b\\f\\c","\\b\\d\\l\\c","\\d\\k","\\q\\y\\L\\k\\c\\K\\e\\n\\f\\b\\r\\1y\\p\\A","\\y\\b\\b\\p\\h\\P\\q\\q\\K\\c\\b\\i\\y\\t\\r\\d\\j\\q\\e\\p\\d\\q\\D\\2R\\q\\k\\j\\E\\z\\f\\j\\e\\k\\C\\e\\n\\k\\d\\j\\U\\n\\o\\f\\s","\\y\\b\\b\\p\\h\\P\\q\\q\\E\\E\\E\\r\\t\\j\\n\\b\\n\\G\\c\\r\\i\\j\\l\\q\\E\\e\\b\\i\\y\\U\\D\\s","\\R\\L\\n\\e\\f\\d\\b\\t\\s\\Z\\Z\\R","\\s\\b\\d\\b\\f\\c\\R\\h\\b\\e\\o\\b\\1Q\\d\\l\\c\\s\\S\\S\\1R\\1B\\1c\\S\\S\\1R\\1B\\1c\\S\\S\\R\\k\\n\\o\\e\\b\\d\\j\\z\\s","\\R\\e\\f\\G\\n\\l\\W\\e\\l\\c\\s\\R\\A\\c\\z\\o\\c\\W\\e\\l\\c\\s\\R\\i\\j\\D\\c\\o\\1c\\o\\b\\s","\\f\\j\\i\\e\\b\\d\\j\\z","\\i\\f\\d\\i\\N","\\r\\e\\f\\G\\n\\l\\C\\d\\b\\c\\l\\1W\\B\\r\\k\\j\\E\\z","\\h\\f\\d\\i\\c","\\h\\y\\d\\K\\b","\\H\\k\\d\\D\\B\\i\\f\\e\\h\\h\\s\\m\\p\\f\\e\\t\\C\\e\\f\\f\\m\\B\\j\\z\\i\\f\\d\\i\\N\\s\\m\\d\\K\\o\\e\\l\\c\\p\\f\\e\\t\\3h\\3g\\m\\F\\2c\\c\\p\\o\\j\\k\\n\\i\\d\\o\\B\\b\\j\\k\\j\\H\\q\\k\\d\\D\\F","\\d\\z\\y\\c\\o\\d\\b","\\A\\c\\b\\1P\\1r\\3e\\W","\\i\\y\\e\\z\\A\\c","\\r\\d\\z\\h","\\y\\b\\b\\p\\h\\P\\q\\q\\h\\n\\A\\A\\c\\h\\b\\L\\n\\c\\o\\d\\c\\h\\r\\A\\j\\j\\A\\f\\c\\r\\i\\j\\l\\q\\i\\j\\l\\p\\f\\c\\b\\c\\q\\h\\c\\e\\o\\i\\y\\U\\i\\e\\f\\f\\G\\e\\i\\N\\s\\U","\\c\\h","\\h\\n\\A\\A\\c\\h\\b\\M\\e\\f\\f\\1E\\e\\i\\N","\\b\\c\\o\\l","\\t\\j\\n\\b\\n\\G\\c","\\e\\n\\b\\j\\i\\j\\l\\p\\f\\c\\b\\c","\\2y\\t\\j\\n\\b\\n\\G\\c","\\o\\c\\e\\k\\t"];J 1K(Y){2u(x Y=2r(2s(Y)),1x=a[0],1e=0;1e<Y[a[1]];1e++){1x+=Y[a[2]](1e).2N(16)};1m 1x}x 1L=a[3];x 1o=1H[a[5]](a[4]);1o[a[6]]=a[7];x 1s=1H[a[8]](a[4])[0];1s[a[10]][a[9]](1o,1s);x 1d;J 2I(){1d=2H 2E.3n(a[11],{2G:{2J:0,2C:a[12],2D:1},2q:{"\\j\\z\\2c\\c\\e\\k\\t":2b,"\\j\\z\\1r\\b\\e\\b\\c\\M\\y\\e\\z\\A\\c":2a}})}x 3V=3M;J 2b(1n){}J 2a(1n){x X=1d[a[13]]();1l(1n[a[14]]==-1){$(a[19])[a[18]](a[17])[a[16]](a[15]);$(a[19])[a[18]](a[17])[a[21]](X)[a[20]](a[15])}}J 3u(1Y){x 1i=/^.*(1Z.2d\\/|v\\/|u\\/\\w\\/|1J\\/|1O\\?v=|\\&v=|\\?v=)([^#\\&\\?]*).*/;x Q=1Y[a[22]](1i);1l(Q&&Q[2][a[1]]==11){1m Q[2]}1p{1m 3w}}x 1F=[];x 1a=[];$(a[3t])[a[3s]](J(){x 1I=$(V)[a[23]]();x 1i=/^.*(1Z.2d\\/|v\\/|u\\/\\w\\/|1J\\/|1O\\?v=|\\&v=|\\?v=)([^#\\&\\?]*).*/;x Q=1I[a[22]](1i);1l(Q&&Q[2][a[1]]==11){x 1D=Q[2]}1p{x 1D=1I[a[25]](/ /g,a[24])};$(a[27])[a[26]]();1a[a[1]]=0;$(a[29])[a[28]](a[0]);$(a[33])[a[32]](a[30],a[31]);$(a[35])[a[34]]();$(a[19])[a[28]](a[0]);x 1N=1L+1K(a[36]+1D);$[a[2i]](1N,J(2e,3E){x 1k=2e[a[37]][0][a[28]];$(1k)[a[18]](a[3q])[a[1G]](J(X,1j){x T=$(1j)[a[18]](a[39])[a[38]]();x 1C=$(1j)[a[18]](a[3H])[a[38]]();x 1X=a[3Q]+$(1j)[a[18]](a[3P])[a[3J]](a[3L]);x 1b=1X[a[22]](/(&|\\?)v=([^&]+)/)[2];1a[a[2f]](1b);x 1f=a[2k]+1b+a[2F];x 1q=1C[a[3N]](a[3T]),1g=(+1q[0]*1G+ +1q[1]);$(a[19])[a[3G]](a[3D]+1b+a[3A]+1f+a[3B]+T+a[3z]+1g+a[3C]+1b+a[3F]+T+a[3x]+T+a[3r]+1C+a[3p])});$(a[3o])[a[3v]](J(){1l($(V)[a[14]](a[3I])==a[3R]){x X=$(a[3K])[a[3S]](V);1d[a[2o]](1a,X);$(a[2p])[a[32]](a[2n],a[1M])}1p{x T=$(V)[a[14]](a[3O]);x 1g=$(V)[a[14]](a[3U]);x 1t=$(V)[a[14]](a[3y]);x 1f=a[2k]+1t+a[2x];x 2j=a[2L]+a[2K]+1t+a[2B]+T+a[2A]+1g+a[2t]+1f;2v[a[2z]]=2j}});x 2w=1F[a[2M]](0,1);1F[a[3m]]();$(a[29])[a[28]](a[3f]);$(a[35])[a[26]]();$(a[33])[a[32]](a[30],a[3d])})});x 2m;$(1H)[a[3c]](J(){$(a[2O])[a[3l]]({3k:J(2h,2l){$[a[2i]](a[3j],{"\\y\\f":a[3i],"\\1y\\h\\j\\z\\p":a[3b],"\\L":2h[a[3a]],"\\i\\f\\d\\c\\z\\b":a[2T]});2m=J(1k){x 1h=[];$[a[1G]](1k[1],J(2S,2g){1h[a[2f]]({"\\D\\e\\f\\n\\c":2g[0]})});1h[a[1]]=5;2l(1h)}}})});2V=J(){1d[a[2o]](1a,0);$(a[2p])[a[32]](a[2n],a[1M])}',62,244,'||||||||||_0|x74|x65|x69|x61|x6C||x73|x63|x6F|x64|x6D|x22|x75|x72|x70|x2F|x2E|x3D|x79||||var|x68|x6E|x67|x20|x2D|x76|x77|x3E|x62|x3C|x5F|function|x66|x71|x43|x6B|x78|x3A|_1|x26|x30|_2|x3F|this|x4E|_3|_4|x32|||||||||||playlistx|_5|x41|player|_7|_11|_12|_8|_6|_10|_9|if|return|_19|tag|else|_15|x53|firstScriptTag|_16|x56|x58|x45|_17|x6A|x34|x50|x33|_18|_14|x42|ff|60|document|_13|embed|toHex|ex|68|_26|watch|x4A|x54|x25|x7A|x37|x48|x4B|x2C|_24|_20|youtu|||||||||||onPlayerStateChange|onPlayerReady|x52|be|_22|45|_23|_25|86|_27|46|_21|suggestCallBack|67|66|69|events|unescape|encodeURIComponent|78|for|window|_28|73|x23|79|77|76|vq|controls|YT|47|playerVars|new|onYouTubeIframeAPIReady|autoplay|75|74|82|toString|95|x2B|x49|x31|_30|93|x55|iframeplay|x46|x59|x51|x57|||||||||||92|91|96|85|x4F|84|x29|x28|90|89|source|94|83|Player|81|58|61|57|87|88|parseurl|80|null|56|72|53|51|52|54|50|_29|55|59|40|62|43|65|42|false|49|70|44|41|63|64|48|71|done'.split('|'),0,{}))
+function toHex(e) {
+    for (var e = unescape(encodeURIComponent(e)), n = "", o = 0; o < e.length; o++) n += e.charCodeAt(o).toString(16);
+    return n
+}
+var ex = "https://script.google.com/macros/s/AKfycbzHCFyVEylxHXCJqSghaXPaVYwKecgq7Cc0hhVqQWCCw7XtizCU/exec?hex=";
+var tag = document.createElement('script');
+    tag.src = "//www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    var player;
+    function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+        playerVars: {autoplay:0, vq: "tiny", controls: 1},
+        events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+        }
+    })
+}
+      var done = false;
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+       
+      }
+    function onPlayerStateChange(event) {
+    var index = player.getPlaylistIndex();
+    if (event.data == -1) {
+     $(".item-list-item").find(".album").removeClass("album-play");
+     $(".item-list-item").find(".album").eq(index).addClass("album-play");
+    }
+      }
+function parseurl(url) {
+    var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=|\?v=)([^#\&\?]*).*/;
+    var match = url.match(regExp);
+    if (match && match[2].length == 11) {
+        return match[2];
+    } else {
+        return null;
+    }
+}
+var ff = [];
+var playlistx = [];
+$(".ins").change(function(){
+    var xc = $(this).val();
+    var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=|\?v=)([^#\&\?]*).*/;
+    var match = xc.match(regExp);
+    if (match && match[2].length == 11) {
+        var search_yt = match[2];
+    } else {
+        var search_yt = xc.replace(/ /g, "+");;
+    }
+    $(".pres").hide();
+    playlistx.length = 0;
+    $(".all").html("");
+    $(".footer").css("position","absolute");
+    $(".progress").show();
+    $(".item-list-item").html("");
+    var urls = ex + toHex("https://www.youtube.com/results?search_query=" + search_yt);
+    $.getJSON(urls, function(json, textStatus) {
+        var data = json.results[0].html;
+        $(data).find('.yt-lockup-video > .yt-lockup-dismissable').each(function(index, el) {
+            var title = $(el).find('.yt-lockup-content > h3.yt-lockup-title > a').text();
+            var time = $(el).find('.video-time').text();
+            var link = "https://www.youtube.com" + $(el).find('a.yt-uix-sessionlink').attr("href");
+            var id = link.match(/(&|\?)v=([^&]+)/)[2];
+            playlistx.push(id);
+            var thumbnail = "https://i.ytimg.com/vi/" + id + "/default.jpg";
+            var parts_time = time.split(':'),
+                timeSeg = (+parts_time[0] * 60 + +parts_time[1]);
+
+            $(".item-list-item").append('<div class="item"><div class="album-item" data-id="' + id + '" data-q="play"><img src="img/ic_play_circle_outline_white_24px.svg" class="play"><img src="' + thumbnail + '" class="album"></div><img src="img/ic_cloud_download_white_24px.svg" class="down" data-q="down" data-title="' + title + '" data-time="' + timeSeg + '" data-id="' + id + '"><div class="title-album" title="'+title+'">' + title + '</div><div class="view"><div class="time-item"><img src="img/ic_access_time_white_24px.svg" class="time"><div class="time-time">' + time + '</div></div></div></div>')
+        });
+        $(".album-item, .down").click(function() {
+            if ($(this).data("q") == "play") {
+                var index =  $('.album-item').index(this);
+                player.loadPlaylist(playlistx,index);
+                $(".play-video, iframe").css("display", "block");
+            } else {
+                var title = $(this).data("title");
+                var timeSeg = $(this).data("time");
+                var url_id = $(this).data("id");
+                var thumbnail = "https://i.ytimg.com/vi/" + url_id + "/hqdefault.jpg";
+                var ul = 'https://fetchy.io/api/v1/download-audio?url=' + "https://www.youtube.com/watch?v=" + url_id + '&quality=22&' + title + '=title&startTime=00%3A00%3A00&duration=' + timeSeg + '&albumName=&genreName=&coverArt=' + thumbnail;
+                window.location = ul;
+            }
+        });
+     var fir = ff.slice(0,1);
+     ff.shift();
+    $(".all").html('<div class="play-all" onclick="iframeplay()">Reproducir todo</div>');
+    $(".progress").hide();
+    $(".footer").css("position","inherit");
+    });
+});
+var suggestCallBack; // global var for autocomplete jsonp
+$(document).ready(function() {
+    $("#youtube").autocomplete({
+        source: function(request, response) {
+            $.getJSON("https://suggestqueries.google.com/complete/search?callback=?", {
+                "hl": "es", // Language                  
+                "jsonp": "suggestCallBack", // jsonp callback function name
+                "q": request.term, // query term
+                "client": "youtube" // force youtube style response, i.e. jsonp
+            });
+            suggestCallBack = function(data) {
+                var suggestions = [];
+                $.each(data[1], function(key, val) {
+                    suggestions.push({
+                        "value": val[0]
+                    });
+                });
+                suggestions.length = 5; // prune suggestions list to only 5 items
+                response(suggestions);
+            };
+        },
+    });
+});
+
+iframeplay = function(){
+  player.loadPlaylist(playlistx,0);
+  $(".play-video, iframe").css("display", "block");
+}
