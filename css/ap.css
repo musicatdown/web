@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+body{
+    margin: 0 auto;
+    background-color: #2e2e30;
+    background-image: url(../img/relax.png);
+    background-repeat: no-repeat;
+    font-family: 'Muli', sans-serif;
+}
+.title-he{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+.search{
+    margin-top: 1%;
+    text-align: center;
+}
+.ins{
+    font-family: 'Muli', sans-serif;
+    padding: 6px;
+    padding-left: 20px;
+    text-decoration: none;
+    border: solid 2px white;
+    font-size: 18px;
+    background-color: rgba(38, 38, 39, 0.46);
+    color: white;
+    width: 48%;
+}
+.item-list-item, .item-list{
+    width: 510px;
+    display: table;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.item{
+   border: solid 1px white;
+   width: 100%; 
+   background-color:rgba(46, 46, 48, 0.9);
+   height: 60px;
+   margin-top: 5px;
+}
+.album{
+    width: 80px;
+    float: left;
+    margin-right: 10px;
+    border-right: solid 1px white;
+}
+.title-album{
+    width: 350px;;
+    color: white;
+    font-size: 18px;
+    text-overflow:ellipsis;
+    white-space:nowrap; 
+    overflow:hidden;
+}
+.down{
+    float: right;
+    width: 25px;
+    margin: 17px;
+}
+.down:hover{
+    float: right;
+    width: 25px;
+    background-color: #262627;
+    border-radius: 25px;
+    margin: 9px;
+    padding: 7px;
+    border: solid 1px white;
+    cursor: pointer;
+}
+.view{
+    color: white;
+    font-size: 12px;
+    width: 200px;
+    height: 35px;
+    margin-left: 70px;
+}
+.note{
+    width: 19px;
+    margin-right: 4px;
+    float: left;
+}
+.play{
+    display: none;
+    float: left;
+    position: absolute;
+    z-index: 3;
+    width: 56px;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0.43);
+    padding: 12px;
+}
+.album-item:hover .play{
+    display:block;
+}
+.sea{
+    text-align: center;
+    width: 35px;
+}
+#player{
+    width: 100%;
+    height: 140px;
+}
+.play-video, #player{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 20%;
+    text-align: center;
+    border: solid white 1px;
+    display: none;
+}
+.time{
+    width: 18px;
+    float: left;
+    margin-right: 5px;
+}
+.view-item{
+    float: left;
+    font-size: 14px;
+    width: 100px;
+}
+.time-item{
+    text-align: left;
+    font-size: 14px;
+}
+@media only screen and (max-width: 520px) {
+    body {
+    margin: 0 auto;
+    }
+    .title-he{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+.search{
+    margin-top: 1%;
+    text-align: center;
+}
+.ins{
+    width: 90%;
+}
+.item-list-item{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: table;
+    float: left;
+}
+.item{
+   border: solid 1px white;
+   width: 100%;
+   height: 60px;
+   margin-top: 5px;
+   
+}
+.album{
+    width: 80px;
+    float: left;
+    margin-right: 10px;
+}
+.title-album{
+    width: 180px;
+    color: white;
+    font-size: 18px;
+    text-overflow:ellipsis;
+    white-space:nowrap; 
+    overflow:hidden;
+}
+#player{
+    width: 50%;
+    height: 140px;
+}
+    .play-video{
+        width: 50%;
+        bottom: -5px;
+        right: 0px;
+    }
+}
+.ui-menu .ui-menu-item a.ui-corner-all:hover, .ui-menu .ui-menu-item a.ui-corner-all:focus, .ui-menu .ui-menu-item a.ui-corner-all:active {
+    background:#f44336!important ;
+    color: #000 !important ;
+    border-radius:0 !important ;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover , .ui-widget-header .ui-state-hover , .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+    background: #f44336 !important ;
+    border: none !important ;
+    color:#000 !important ;
+    box-decoration-break: slice;
+    border-radius:0 !important ;
+    font-weight: normal !important ;
+}
+.footer {
+  z-index: -30;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  padding: 0.5rem;
+  background-color: rgba(46, 46, 48, 0);
+  text-align: center; 
+  color: white;
+  float:left;
+}
+.load{
+    width: 100px;
+}
+.progress{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    display: none;
+}
+.album-play{
+    border-right: solid 5px white;
+}
+.play-all{
+    margin-top: 2px;
+    color: white;
+    border: solid white 1px;
+    text-align: center;
+    padding: 3px;
+    font-size: 15px;
+    width: 25%;
+    background-color: #262627;
+    cursor: default;
+}
+.play-all:hover{
+    background-color: white;
+    color: #262627;
+}
+.pres{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
